@@ -16,15 +16,29 @@ Specialized in building beautiful and robust apps with **Flutter**.
 ## 🏆 Projects
 
 ### 🎓 Darshan University Admission Apps
-I’ve developed **5 admission apps** for Darshan University, streamlining the application and enrollment process for students and administration.
+
+- **Gujarat Engineering Admission**  
+  [iOS App](http://diet.vc/a_iEngg) | [Android App](http://diet.vc/a_aEngg)
+
+- **Diploma Engineering Admission**  
+  [iOS App](http://diet.vc/a_idiploma) | [Android App](http://diet.vc/a_adiploma)
+
+- **D2D Admission Gujarat**  
+  [iOS App](http://diet.vc/a_iD2D) | [Android App](http://diet.vc/a_aD2D)
+
+- **MBA Admission**  
+  [iOS App](http://diet.vc/a_imba) | [Android App](http://diet.vc/a_amba)
+
+- **MCA Admission**  
+  [iOS App](http://diet.vc/a_imca) | [Android App](http://diet.vc/a_amca)
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **Languages:** Dart, JavaScript
-- **Frameworks:** Flutter
-- **Tools:** Firebase, REST APIs, Git, GitHub Actions
+- **Frameworks:** Flutter, React Js, Node Js, Express Js
+- **Tools:** Firebase, REST APIs, Git,
 
 ---
 
